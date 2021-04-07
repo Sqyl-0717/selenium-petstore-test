@@ -1,5 +1,7 @@
 # XPath
 
+Video: https://www.youtube.com/watch?v=ZFE12rcVb5Q
+
 XPath is a general language to select elements from XML language.
 While the HTML is an XML then we can use the XPath to find elements.
 
@@ -10,6 +12,8 @@ https://www.selenium.dev/selenium/docs/api/java/org/openqa/selenium/By.html#xpat
 
 # Page Object pattern
 
+Video: https://www.youtube.com/watch?v=VFVQRdsUWzI
+
 If we write more test the suites can get harder and harder to understand, so we introduce a level of organizing code.
 We say that every page have it's own class that contains the actions that can be done on that page or information that can be claimed.
 
@@ -17,6 +21,8 @@ https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_ob
 
 
 # Big assignment
+
+Video: https://www.youtube.com/watch?v=IBNwYH4Ko5s
 
 All of you have to do a big assignment that have to be presented in the future.
 
