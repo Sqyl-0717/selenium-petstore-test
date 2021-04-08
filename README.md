@@ -43,3 +43,5 @@ The steps of the big assignment:
 - Copy the [point spreadsheet](https://docs.google.com/spreadsheets/d/1lwZlTShULZVSCxM-ew880VkdSffrruTUF229c-FsC5k/edit?usp=sharing) and fill the github url and with the tasks that you have done.
 - Present your solution.
 If you cannot explain fully that you wrote and does not convince me that you wrote it the work is failed and you have to choose a new page and redo the task.
+
+You have **3 weeks** to do the assignment. I will share presentation slots after 19th of April.
