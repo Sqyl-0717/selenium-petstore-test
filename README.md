@@ -26,7 +26,7 @@ Video: https://www.youtube.com/watch?v=IBNwYH4Ko5s
 
 All of you have to do a big assignment that have to be presented in the future.
 
-Our project assignment for the Week 5-8 will be a selenium test that tests a webpage that available publicly on the internet and choosen by you.
+Our next big assignment will be a selenium test that tests a webpage that available publicly on the internet and choosen by you.
 Every student has to have to choose different website.
 
 
@@ -44,4 +44,4 @@ The steps of the big assignment:
 - Present your solution.
 If you cannot explain fully that you wrote and does not convince me that you wrote it the work is failed and you have to choose a new page and redo the task.
 
-You have **3 weeks** to do the assignment. I will share presentation slots after 19th of April.
+You have **3 weeks** to do the assignment. I will share presentation slots after 25th of April.
